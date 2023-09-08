@@ -10,7 +10,6 @@ namespace WebApplication1.Controllers
 
         public HomeController(ILogger<HomeController> logger)
         {
-            Int32 entero;
             _logger = logger;
         }
 
